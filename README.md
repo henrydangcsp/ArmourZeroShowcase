@@ -180,7 +180,7 @@ Attackers can:
 
 ---
 
-> This environment is for educational and testing purposes only.  
+> This environment is for educational and testing purpose only.  
 > Please **do not deploy to production** environments.
 
 ---
