@@ -5,7 +5,7 @@
 It includes examples of common web application vulnerabilities and demonstrates:
 
 - How ArmourZero detects, assesses, and prioritizes them
-- How ArmourZero AI helps fix them with remediation suggestions
+- How ArmourZero AI helps fix them with remediation suggestion
 
 ---
 
