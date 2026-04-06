@@ -16,7 +16,7 @@
       env:
         AZ_API_KEY: "$mchyWMbLaoWoZhdyyilh"
         PROJECT_KEY: "aQflJysZQqhAGFTZDsyMwbLteYkDmRUn"
-        BRANCH_NAME: "$AZ_REPO"
+        BRANCH_NAME: "$Vulnerable"
         
       steps:
         - name: Checkout Repository
