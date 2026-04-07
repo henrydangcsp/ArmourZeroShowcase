@@ -13,7 +13,7 @@ It includes examples of common web application vulnerabilities and demonstrates:
 
 To run this showcase locally, install a web server stack like **XAMPP**, **MAMP**, or **Apache**.
 
-### 🖥️ For Windows:
+### 🖥️ For Window:
 
 1. Download and install **XAMPP** [here](https://www.apachefriends.org/index.html).
 2. Copy the entire project folder into `xampp/htdocs`.
